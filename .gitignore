@@ -1,0 +1,9 @@
+*.csv
+*.xlsx
+data/
+UNSW_NB15_Archive/
+
+__pycache__/
+*.pyc
+
+!outputs/
